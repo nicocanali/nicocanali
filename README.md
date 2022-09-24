@@ -1,1 +1,3 @@
-![](./github-header-image.png?raw=true)
+<p align="center">
+  <img src="./github-header-image.png"/>
+</p>
